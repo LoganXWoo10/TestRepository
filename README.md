@@ -1,4 +1,4 @@
 #Hello
 Example Repository.
 
-For testing purposes. :)
+For testing purposes. ^_^
